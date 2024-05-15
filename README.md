@@ -43,12 +43,3 @@ This macro is designed to automate the detection of spheroids in merged '.tif' i
 #### Step 7: Completion
 - Indicates the completion of processing for all files.
 - **Snapshot:** `<img src="path/to/completion_snapshot.png" alt="Completion Snapshot">`
-
-### Code
-```macro
-// Fiji Macro for Automated Spheroid Detection
-// Macro 2 of 3 in the series
-
-macro "Spheroid Detection - Merged TIF Analysis" {
-    // [code continues here...]
-}
