@@ -2,7 +2,7 @@
 
 ## Overview
 
-This macro automates the process of detecting spheroids and analyzing live/dead ratios in merged `.tif` images. It iterates through images in a specified directory, processes each one, and saves the results.
+This macro automates the process of detecting spheroids and analyzing live/dead ratios in merged `.tif` images. It iterates through images in a specified directory, processes each one, and saves the results. The merged images were created with [Dual-Channel-Fluorescence-Image-Merger-with-Filename-Truncation](https://github.com/Daniel-Waiger/Dual-Channel-Fluorescence-Image-Merger-with-Filename-Truncation).
 
 **Example - From Left to Right: Raw → 8-bit Gray (after conversion from composite to RGB) → Cellpose Label Image.**
 
