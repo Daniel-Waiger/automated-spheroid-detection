@@ -4,7 +4,7 @@
 
 This macro automates the process of detecting spheroids and analyzing live/dead ratios in merged `.tif` images. It iterates through images in a specified directory, processes each one, and saves the results.
 
-**Example - From Left to Right: Raw --> 8-bit Gray (after conversion from composite to RGB) --> Cellpose Label Image.**
+**Example - From Left to Right: Raw → 8-bit Gray (after conversion from composite to RGB) → Cellpose Label Image.**
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/Daniel-Waiger/automated-spheroid-detection/assets/55537771/f814c448-3f04-4691-aef1-e13ec4f4caf2" alt="raw-spheroid-image" style="width: 33%; vertical-align: top;" />
