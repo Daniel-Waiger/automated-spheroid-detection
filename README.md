@@ -7,9 +7,9 @@ This macro automates the process of detecting spheroids and analyzing live/dead 
 **Example - From Left to Right: Raw → 8-bit Gray (after conversion from composite to RGB) → Cellpose Label Image.**
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/Daniel-Waiger/automated-spheroid-detection/assets/55537771/f814c448-3f04-4691-aef1-e13ec4f4caf2" alt="raw-spheroid-image" style="width: 25%; vertical-align: top;" />
-  <img src="https://github.com/Daniel-Waiger/automated-spheroid-detection/assets/55537771/a9703b31-aab7-448b-94f9-2cce2254ae27" alt="gray-spheroid-image" style="width: 25%; vertical-align: top;" />
-  <img src="https://github.com/Daniel-Waiger/automated-spheroid-detection/assets/55537771/a21816ce-5e76-484c-8394-99b564b19451" alt="cellpose-spheroid-image" style="width: 25%; vertical-align: top;" />
+  <img src="https://github.com/Daniel-Waiger/automated-spheroid-detection/assets/55537771/f814c448-3f04-4691-aef1-e13ec4f4caf2" alt="raw-spheroid-image" style="width: 30%; vertical-align: top;" />
+  <img src="https://github.com/Daniel-Waiger/automated-spheroid-detection/assets/55537771/a9703b31-aab7-448b-94f9-2cce2254ae27" alt="gray-spheroid-image" style="width: 30%; vertical-align: top;" />
+  <img src="https://github.com/Daniel-Waiger/automated-spheroid-detection/assets/55537771/a21816ce-5e76-484c-8394-99b564b19451" alt="cellpose-spheroid-image" style="width: 30%; vertical-align: top;" />
 </div>
 
 
